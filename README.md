@@ -8,4 +8,3 @@ Código desenvolvido no módulo de Django do www.python.pro.br
 [![Python 3](https://pyup.io/repos/github/cacciella/django-pro/python-3-shield.svg)](https://pyup.io/repos/github/cacciella/django-pro/)
 [![codecov](https://codecov.io/gh/cacciella/django-pro/branch/master/graph/badge.svg)](https://codecov.io/gh/cacciella/django-pro)
 
-
